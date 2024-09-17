@@ -15,6 +15,8 @@ N/A
 
 Using the code-quiz app is easy. You only need to open the app and answer the questions at a specific time.
 
+https://github.com/user-attachments/assets/25ad52d7-c11e-4088-98dd-9d0ced039d37
+
 
 ## Link to GitHub repository
 [GitHub Repo](https://github.com/AshivaA/code-quiz.git)
